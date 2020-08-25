@@ -7,4 +7,4 @@ function desplegarboton4() {
 
 };
 
-boton4.addEventListener("click", desplegarboton4,true);
+boton4.addEventListener("mouseover", desplegarboton4,true);
