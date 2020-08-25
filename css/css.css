@@ -32,7 +32,7 @@ header{
 }
 .bt:hover{
   color: white;
-  background-color: aqua;
+  background-color: orange;
 }
 .mas{
   display: flex;
@@ -48,7 +48,7 @@ header{
   display: block;
 }
 .mas:hover{
- background-color: aqua;
+ background-color: orange;
 }
 .botones4 a{
   text-decoration: none;
